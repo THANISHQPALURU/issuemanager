@@ -5,16 +5,16 @@ export const users: User[] = [
   {
     id: '1',
     username: 'user',
-    password: 'password',
+    password: 'user',
     role: 'user',
-    name: 'John Doe'
+    name: 'Thanishq'
   },
   {
     id: '2',
     username: 'admin',
     password: 'admin',
     role: 'admin',
-    name: 'Admin User'
+    name: 'Admin'
   }
 ];
 
